@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jrails.ModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-09T04:17:46" hostname="heyangdeMacBook-Pro.local" time="0.031">
+<testsuite name="jrails.ModelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-09T12:02:23" hostname="heyangdeMacBook-Pro.local" time="0.029">
   <properties/>
-  <testcase name="id" classname="jrails.ModelTest" time="0.007"/>
+  <testcase name="id" classname="jrails.ModelTest" time="0.005"/>
   <testcase name="save" classname="jrails.ModelTest" time="0.024"/>
-  <system-out><![CDATA[title1_changed,author1_changed,0,-481853643
-title2,null,3,-2017206865
+  <system-out><![CDATA[title1_changed,author1_changed,0,-88266226
+title2,null,3,-140184305
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
