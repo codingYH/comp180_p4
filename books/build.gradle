@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.13
+
+
+dependencies {
+    testCompile deps.hamcrest
+    testCompile deps.jUnit
+    compile project(':jrails')
+}
+
+application {
+    mainClassName = 'books.Main'
+}
