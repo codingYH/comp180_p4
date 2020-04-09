@@ -18,7 +18,8 @@ public class Model {
 
     public void save() {
         if (id == 0) {
-            id();
+            UUID uuid = UUID.randomUUID();
+            id = uuid.hashCode();
             StringBuffer sb;
             sb = getFieldsValue();
             try {
@@ -34,13 +35,7 @@ public class Model {
     }
 
     public int id() {
-        if (id != 0) {
-            return id;
-        } else {
-            UUID uuid = UUID.randomUUID();
-            id = uuid.hashCode();
-            return id;
-        }
+        return id;
     }
 
     public static <T> T find(Class<T> c, int id) {

@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e592e311-ce7e-470f-abb2-6fb93b5d221f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrails/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/src/main/java/jrails/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/main/java/jrails/Model.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +171,7 @@
       <updated>1586189965879</updated>
       <workItem from="1586189968625" duration="200000" />
       <workItem from="1586190496586" duration="48293000" />
-      <workItem from="1586435114854" duration="5000" />
+      <workItem from="1586435114854" duration="333000" />
     </task>
     <servers />
   </component>
