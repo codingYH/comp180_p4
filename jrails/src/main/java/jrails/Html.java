@@ -94,8 +94,9 @@ public class Html {
     }
 
     public Html form(String action, Html child) {
+        //<form action="/create" accept-charset="UTF-8" method="post">HTML</form>
         StringBuffer s = new StringBuffer(this.html);
-        s.append("<form action=\"" + action + "\">");
+        s.append("<form action=\"" + action + "\" accept-charset=\"UTF-8\" method=\"post\">");
         s.append(child.html);
         s.append("</form>");
         return new Html(new String(s));

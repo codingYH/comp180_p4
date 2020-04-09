@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e592e311-ce7e-470f-abb2-6fb93b5d221f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/jrails/build/classes/java/main/jrails/Html.class" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/classes/java/main/jrails/Html.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/classes/java/test/jrails/HtmlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/classes/java/test/jrails/HtmlTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/libs/jrails-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/libs/jrails-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/classes/jrails.ViewTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/packages/jrails.html" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/reports/tests/test/packages/jrails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/TEST-jrails.ViewTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/model.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/model.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/src/main/java/jrails/Html.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/main/java/jrails/Html.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/src/test/java/jrails/HtmlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/test/java/jrails/HtmlTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aAsvo1ZFUiF76yPQylFF9QahKi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.HtmlTest">
+    <configuration name="HtmlTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jrails.HtmlTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":jrails:cleanTest" />
+            <option value=":jrails:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JRouterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jrails.JRouterTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":jrails:cleanTest" />
+            <option value=":jrails:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="JRouterTest.create" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jrails.JRouterTest.create&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":jrails:cleanTest" />
+            <option value=":jrails:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ModelTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jrails.ModelTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":jrails:cleanTest" />
+            <option value=":jrails:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ViewTest.empty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;jrails.ViewTest.empty&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":jrails:cleanTest" />
+            <option value=":jrails:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HtmlTest" />
+        <item itemvalue="Gradle.JRouterTest.create" />
+        <item itemvalue="Gradle.ModelTest" />
+        <item itemvalue="Gradle.JRouterTest" />
+        <item itemvalue="Gradle.ViewTest.empty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e592e311-ce7e-470f-abb2-6fb93b5d221f" name="Default Changelist" comment="" />
+      <created>1586189965879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586189965879</updated>
+      <workItem from="1586189968625" duration="200000" />
+      <workItem from="1586190496586" duration="44321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586191823326">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586191823326" />
+    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1586399609360">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="432" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1586399609360" />
+    <state width="1398" height="368" key="GridCell.Tab.0.bottom" timestamp="1586401416855">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="368" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586401416855" />
+    <state width="1398" height="131" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586389962553" />
+    <state width="1398" height="368" key="GridCell.Tab.0.center" timestamp="1586401416854">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="368" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586401416854" />
+    <state width="1398" height="131" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586389962552" />
+    <state width="1398" height="368" key="GridCell.Tab.0.left" timestamp="1586401416854">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="368" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586401416854" />
+    <state width="1398" height="131" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586389962551" />
+    <state width="1398" height="368" key="GridCell.Tab.0.right" timestamp="1586401416855">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="368" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586401416855" />
+    <state width="1398" height="131" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586389962553" />
+    <state width="1398" height="217" key="GridCell.Tab.1.bottom" timestamp="1586401346950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586401346950" />
+    <state width="1398" height="217" key="GridCell.Tab.1.center" timestamp="1586401346949">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586401346949" />
+    <state width="1398" height="217" key="GridCell.Tab.1.left" timestamp="1586401346949">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586401346949" />
+    <state width="1398" height="217" key="GridCell.Tab.1.right" timestamp="1586401346950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586401346950" />
+    <state width="1398" height="217" key="GridCell.Tab.2.bottom" timestamp="1586401346951">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586401346951" />
+    <state width="1398" height="217" key="GridCell.Tab.2.center" timestamp="1586401346951">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1586401346951" />
+    <state width="1398" height="217" key="GridCell.Tab.2.left" timestamp="1586401346950">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1586401346950" />
+    <state width="1398" height="217" key="GridCell.Tab.2.right" timestamp="1586401346951">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1586401346951" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1586191859636">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586191859636" />
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1586273122780">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586273122780" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586276243954">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586276243954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jrails/src/main/java/jrails/JRouter.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
