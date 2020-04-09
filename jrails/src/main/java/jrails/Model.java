@@ -8,9 +8,13 @@ import java.util.*;
 
 public class Model {
     private final static String COMMA_REPLACE = "$";
-    private final static String DB_FILE = "./model.txt";
+    private static String DB_FILE;
     @Column
     public int id = 0;
+
+    public Model(){
+        DB_FILE =  this.getClass().getSimpleName() + ".txt" ;
+    }
 
     public void save() {
         if (id == 0) {

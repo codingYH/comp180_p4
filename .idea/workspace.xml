@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e592e311-ce7e-470f-abb2-6fb93b5d221f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/jrails/build/classes/java/main/jrails/Html.class" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/classes/java/main/jrails/Html.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrails/build/classes/java/test/jrails/HtmlTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/classes/java/test/jrails/HtmlTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/classes/java/main/jrails/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/classes/java/main/jrails/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/classes/java/test/jrails/ModelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/classes/java/test/jrails/ModelTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jrails/build/libs/jrails-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/libs/jrails-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/classes/jrails.ViewTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/classes/jrails.HtmlTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jrails/build/reports/tests/test/packages/jrails.html" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/reports/tests/test/packages/jrails.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/TEST-jrails.ViewTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/TEST-jrails.HtmlTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jrails/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jrails/model.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/model.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrails/src/main/java/jrails/Html.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/main/java/jrails/Html.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrails/src/test/java/jrails/HtmlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/test/java/jrails/HtmlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/src/main/java/jrails/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/main/java/jrails/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jrails/src/test/java/jrails/ModelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrails/src/test/java/jrails/ModelTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Gradle.HtmlTest">
+  <component name="RunManager" selected="Gradle.ModelTest">
     <configuration name="HtmlTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -160,9 +163,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ModelTest" />
         <item itemvalue="Gradle.HtmlTest" />
         <item itemvalue="Gradle.JRouterTest.create" />
-        <item itemvalue="Gradle.ModelTest" />
         <item itemvalue="Gradle.JRouterTest" />
         <item itemvalue="Gradle.ViewTest.empty" />
       </list>
@@ -179,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586189965879</updated>
       <workItem from="1586189968625" duration="200000" />
-      <workItem from="1586190496586" duration="44321000" />
+      <workItem from="1586190496586" duration="47265000" />
     </task>
     <servers />
   </component>
@@ -195,58 +198,58 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="432" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1586399609360" />
-    <state width="1398" height="368" key="GridCell.Tab.0.bottom" timestamp="1586401416855">
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom" timestamp="1586405865419">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="368" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586401416855" />
+    <state width="1398" height="262" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586405865419" />
     <state width="1398" height="131" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1586389962553" />
-    <state width="1398" height="368" key="GridCell.Tab.0.center" timestamp="1586401416854">
+    <state width="1398" height="262" key="GridCell.Tab.0.center" timestamp="1586405865418">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="368" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586401416854" />
+    <state width="1398" height="262" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586405865418" />
     <state width="1398" height="131" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1586389962552" />
-    <state width="1398" height="368" key="GridCell.Tab.0.left" timestamp="1586401416854">
+    <state width="1398" height="262" key="GridCell.Tab.0.left" timestamp="1586405865418">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="368" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586401416854" />
+    <state width="1398" height="262" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586405865418" />
     <state width="1398" height="131" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1586389962551" />
-    <state width="1398" height="368" key="GridCell.Tab.0.right" timestamp="1586401416855">
+    <state width="1398" height="262" key="GridCell.Tab.0.right" timestamp="1586405865418">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="368" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586401416855" />
+    <state width="1398" height="262" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586405865418" />
     <state width="1398" height="131" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1586389962553" />
-    <state width="1398" height="217" key="GridCell.Tab.1.bottom" timestamp="1586401346950">
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom" timestamp="1586405865421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586401346950" />
-    <state width="1398" height="217" key="GridCell.Tab.1.center" timestamp="1586401346949">
+    <state width="1398" height="262" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586405865421" />
+    <state width="1398" height="262" key="GridCell.Tab.1.center" timestamp="1586405865420">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586401346949" />
-    <state width="1398" height="217" key="GridCell.Tab.1.left" timestamp="1586401346949">
+    <state width="1398" height="262" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586405865420" />
+    <state width="1398" height="262" key="GridCell.Tab.1.left" timestamp="1586405865419">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586401346949" />
-    <state width="1398" height="217" key="GridCell.Tab.1.right" timestamp="1586401346950">
+    <state width="1398" height="262" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586405865419" />
+    <state width="1398" height="262" key="GridCell.Tab.1.right" timestamp="1586405865420">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586401346950" />
-    <state width="1398" height="217" key="GridCell.Tab.2.bottom" timestamp="1586401346951">
+    <state width="1398" height="262" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586405865420" />
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom" timestamp="1586405865422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586401346951" />
-    <state width="1398" height="217" key="GridCell.Tab.2.center" timestamp="1586401346951">
+    <state width="1398" height="262" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586405865422" />
+    <state width="1398" height="262" key="GridCell.Tab.2.center" timestamp="1586405865421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1586401346951" />
-    <state width="1398" height="217" key="GridCell.Tab.2.left" timestamp="1586401346950">
+    <state width="1398" height="262" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1586405865421" />
+    <state width="1398" height="262" key="GridCell.Tab.2.left" timestamp="1586405865421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1586401346950" />
-    <state width="1398" height="217" key="GridCell.Tab.2.right" timestamp="1586401346951">
+    <state width="1398" height="262" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1586405865421" />
+    <state width="1398" height="262" key="GridCell.Tab.2.right" timestamp="1586405865422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1586401346951" />
+    <state width="1398" height="262" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1586405865422" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1586191859636">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -267,6 +270,26 @@
           <url>file://$PROJECT_DIR$/jrails/src/main/java/jrails/JRouter.java</url>
           <line>35</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jrails/src/test/java/jrails/ModelTest.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jrails/src/test/java/jrails/ModelTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jrails/src/test/java/jrails/ModelTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jrails/src/test/java/jrails/ModelTest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

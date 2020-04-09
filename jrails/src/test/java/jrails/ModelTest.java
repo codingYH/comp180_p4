@@ -50,8 +50,8 @@ public class ModelTest {
         System.out.println(book2.title+ "," + book2.author+ "," + book2.num_copies+ "," +book2.id);
         book2.destroy();
         List<Book> l = Model.all(Book.class);
-//        book3.destroy();
-        Model.reset();
+        book3.destroy();
+//        Model.reset();
     }
 
     @After
